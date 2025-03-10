@@ -1,7 +1,6 @@
-# flutter_application_1
+# flutter_projects
 
-A new Flutter project.
-
+this repo contains flutter projects.each branch contains it's own project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
